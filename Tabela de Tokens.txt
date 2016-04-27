@@ -1,0 +1,13 @@
+_teste					Identificador
+_12434					Identificador
+1234					Numero
+234.545635345345					Numero
+_oisom					Identificador
+_tets					Identificador
+>=					Operador Logico
+inicio					inicio
+enquanto					enquanto
+5					Numero
+_teste					Identificador
+_oisom					Identificador
++					Operador Matematico
