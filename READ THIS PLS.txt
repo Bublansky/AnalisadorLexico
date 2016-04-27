@@ -6,5 +6,11 @@ se entao enquanto faca
 1.1.1.1.1.1.1.1.1.
 5>=2
 >=
+inicio
+enquanto
 5 >==
 10<=>===
++
+/
+++
++=
