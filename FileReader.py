@@ -96,6 +96,6 @@ for i in words:
         print(i + tab + 'Erro Sintaxe nao Aceita' + '\n')
 
 for k in range(0,len(lista)):
-    arquivo2.writelines(lista[k]+ tab + str(k+1))
+    arquivo2.writelines(lista[k]+ tab + str(k+1) + '\n')
 arquivo2.close()
 arquivo.close()
